@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class SphereMovement : MonoBehaviour
 {
-    public float speed = 2f; 
     public float amplitude = 0.005f;
     public float frequency = 1f; 
 
